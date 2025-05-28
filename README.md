@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thrisha-kadiyala
 - 👀 I’m interested in Python full stack development , SQL , ML & data anlaysis.
-- 🌱 I’m currently learning Django , Java Script
+- 🌱 I’m currently learning Django , Java Script , Reactjs
 
 
 <!---
